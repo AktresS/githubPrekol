@@ -13,6 +13,8 @@
 
         <Button Content="DDD"></Button>
         <Button Content="EEE"></Button>
+
+        <Button Content="VVV"></Button>
         <Label Content="Мяу" HorizontalAlignment="Center" Margin="0,127,0,0" VerticalAlignment="Top"/>
 
     </Grid>
