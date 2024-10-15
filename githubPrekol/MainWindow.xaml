@@ -9,6 +9,9 @@
     <Grid>
         <Button Content="AAA"></Button>
         <Button Content="BBB"></Button>
+
+
+        <Button Content="DDD"></Button>
         <Label Content="Мяу" HorizontalAlignment="Center" Margin="0,127,0,0" VerticalAlignment="Top"/>
 
     </Grid>
