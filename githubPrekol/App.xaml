@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:githubPrekol"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Button Content="AAA"></Button>
     </Application.Resources>
 </Application>
